@@ -6,3 +6,6 @@ def gugudan(n):
 
 gugudan(10)
 
+def add(a,b):
+    return a+b
+
